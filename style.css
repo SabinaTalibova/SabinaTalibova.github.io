@@ -85,7 +85,7 @@ nav ul li a:hover{
 }
 
 article{
-    padding-top: 50px;
+    padding-top: 100px;
     padding-left: 50px;
 }
 .clearfix{
@@ -98,6 +98,7 @@ article{
     font-size: 140%;
     color:black;
     text-indent: 3%;
+    padding-top: 100px;
 }
 .about-text h2 {
     font-family: 'Raleway', sans-serif;
@@ -126,8 +127,42 @@ img{
   padding-top: 100px;
   padding-left: 130px;
 }
+.one-third{
+    width:33.33333%;
+    float:left;
+    height: auto;
+}
+
+.portheader h2 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 180%;
+    color:black;
+    text-align: center;
+    padding:40px;
+}
+.one-third h3{
+    font-family: 'Raleway', sans-serif;
+    font-size: 140%;
+    color:black;
+    text-align: center;
+    }
+    .one-third img{
+        float:left;
+        width: 70%;
+        padding:80px;
+        padding-top:30px;
+
+    }
+.portnote p{
+    font-family: 'Raleway', sans-serif;
+    font-size: 100%;
+    color:black;
+    text-indent: 3%;
+    padding-top:-50px;
+    
 
 
+}
 
 
 

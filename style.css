@@ -191,13 +191,12 @@ footer.second p{
         border: 0;
     }
    .intro{
-    height: 100%;
+    height: 60%;
     width: 100%;
-    background: linear-gradient( rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05) ), url(Images/background.jpg) no-repeat ;
-    background-size: cover;
-    display: table;
-    top:0;
-    margin: auto;
+    background-color:#d88492;
+    background-size: 0;
+
+    
     
 }
     

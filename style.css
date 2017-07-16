@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Lobster'); /*font for header logo*/
-@import url('https://fonts.googleapis.com/css?family=Lobster+Two'); /*font for motto*/
-@import url('https://fonts.googleapis.com/css?family=Raleway'); /*--- Nav Font and paragraph --*/
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+@import url('https://fonts.googleapis.com/css?family=Lobster+Two'); 
+@import url('https://fonts.googleapis.com/css?family=Raleway'); 
 @import url('https://fonts.googleapis.com/css?family=Merriweather');
 
 *{
@@ -174,16 +174,15 @@ img{
 
  
 .social_links  {
-   color:#c40062;
+   color:#980459;
    text-decoration:underline;
    text-decoration-style: dotted;
 }
 
-footer{
-    background-color: pink;
-    height:80px;
+footer.second p{
+    padding:5px 0 9px 0;
+    text-align: center;
 }
-
 
 
 
